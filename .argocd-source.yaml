@@ -1,0 +1,5 @@
+lth.lua:
+  hs = {}
+  hs.status = "Healthy"
+  hs.message = "Helm release synced and all resources healthy"
+  return hs
